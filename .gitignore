@@ -4,3 +4,5 @@ node_modules
 
 # Private originals (student/school data) - never publish
 _private/
+
+.vercel
